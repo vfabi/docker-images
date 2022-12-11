@@ -8,9 +8,8 @@
 ![Docker Version](https://img.shields.io/docker/v/vfabi/docker-images)
 ![Docker Pulls](https://img.shields.io/docker/pulls/vfabi/docker-images)
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/vfabi/docker-images)
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/vfabi/docker-images)
 
-Custom docker images builds.  
+Custom docker images Dockerfiles.    
 Supported platforms: amd64, arm64.
 
 ## Images
